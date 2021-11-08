@@ -1,1 +1,1 @@
-# OCR_to_Morse
+This repo is intended to to use the tesseract OCR along with some python algorithms to read words on pictures and convert them to Morse code.
